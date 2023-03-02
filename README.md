@@ -1,4 +1,4 @@
-# accordion
+# accordion component
 accordion component run on a webpage
 built with html, css, javascript
 1. download html file
